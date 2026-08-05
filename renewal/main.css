@@ -9,6 +9,7 @@ body {
     background-color: #f5f5f5;
     overflow-x: hidden;
     background-repeat: no-repeat;
+    background-position: top center;
 }
 
 a { text-decoration: none; display: block; margin: 0 auto;}
