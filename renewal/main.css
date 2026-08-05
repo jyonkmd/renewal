@@ -1,0 +1,24 @@
+/* 기본 여백 제거 */
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f5f5f5;
+    overflow-x: hidden;
+    background-repeat: no-repeat;
+}
+
+a { text-decoration: none; display: block; margin: 0 auto;}
+
+.pc-mockup { width:1280px;}
+
+.m-mockup { box-shadow:
+     14px 0 24px -14px rgba(0, 0, 0, 0.15),   /* 오른쪽 */
+    -14px 0 24px -14px rgba(0, 0, 0, 0.15); width:375px;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment: scroll;
+background-size: 375px auto;}
